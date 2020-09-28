@@ -1,9 +1,3 @@
-// Rubiks Cube 3
-// Daniel Shiffman
-// https://thecodingtrain.com/CodingChallenges/142.3-rubiks-cube.html
-// https://youtu.be/8U2gsbNe1Uo
-
-
 void turnZ(int index, int dir) {
   for (int i = 0; i < cube.length; i++) {
     Cubie qb = cube[i];
