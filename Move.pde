@@ -1,8 +1,3 @@
-// Rubiks Cube 3
-// Daniel Shiffman
-// https://thecodingtrain.com/CodingChallenges/142.3-rubiks-cube.html
-// https://youtu.be/8U2gsbNe1Uo
-
 class Move {
   float angle = 0;
   int x = 0;
