@@ -1,9 +1,3 @@
-// Rubiks Cube 3
-// Daniel Shiffman
-// https://thecodingtrain.com/CodingChallenges/142.3-rubiks-cube.html
-// https://youtu.be/8U2gsbNe1Uo
-
-
 void keyPressed() {
   if (key == ' ') {
     currentMove.start();
